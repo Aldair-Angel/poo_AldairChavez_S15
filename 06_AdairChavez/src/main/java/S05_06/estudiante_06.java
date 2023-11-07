@@ -18,16 +18,16 @@ public class estudiante_06 {
     
     //metodos
     public void estudiar(){
-        
+        System.out.println("El estudiante se pone a estudiar");
     }
     public void caminar(){
-        
+        System.out.println("El alumno camina");
     }
     public void dormir(){
-        
+        System.out.println("El alumno se pone a dormir a las 10:00");
     }
     public void saltar(){
-        
+        System.out.println("El estudiante salta en Edu.Fisica");
     }
     
 }

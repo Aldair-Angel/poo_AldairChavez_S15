@@ -23,7 +23,7 @@ public class policia_06 {
         System.out.println("El policia maneja");
     }
     public void disparar(){
-        System.out.println("El olicia usa una pistola para disparar");
+        System.out.println("El policia usa una pistola para disparar");
     }
     public void arrestar(){
         System.out.println("El policia aresta al ladron");

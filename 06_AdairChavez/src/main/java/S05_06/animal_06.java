@@ -16,15 +16,15 @@ public class animal_06 {
     int embergadura;
     
     public void comer(){
-        
+        System.out.println("El animal come carne");
     }
     public void cazar(){
-        
+        System.out.println("El anmal sale a cazar");
     }
     public void pelear(){
-        
+        System.out.println("El animal se pone a pelear cpara ser el alfa");
     }
     public void gruñir(){
-        
+        System.out.println("El animal me gruñe");
     }
 }
